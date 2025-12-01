@@ -1,6 +1,6 @@
 # Gerenciador de Contatos (Python + CustomTkinter)
 
-![preview](https://prnt.sc/2KP4tsNQyO5Nraw=true)
+![preview](https://prnt.sc/2KP4tsNQyO5N?raw=true)
 
 Gerenciador de contatos **moderno e lindo** feito em Python com:
 - CustomTkinter (interface dark/light)
