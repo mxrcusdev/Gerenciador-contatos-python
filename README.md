@@ -20,3 +20,9 @@ Gerenciador de contatos **moderno e lindo** feito em Python com:
 ```bash
 pip install customtkinter
 python main.py
+```
+
+## Criador
+```DC: mxrcus._```
+
+
